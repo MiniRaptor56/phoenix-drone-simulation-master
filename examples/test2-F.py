@@ -56,6 +56,7 @@ if __name__ == '__main__':
             mc.turn_right(360)
             mc.turn_right(360)
             mc.turn_right(360)
-            
+            time.sleep(1)
+
             mc.land()
             time.sleep(1)
